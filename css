@@ -1,0 +1,50 @@
+#logo {
+	border-radius: 60px ; 
+}
+#actiu {
+	width: 600px; 
+	margin: auto;
+	font-size: 25px; 
+	font-weight: bold; 
+	text-align: center; 
+	background-color: #3CCDBA; 
+}
+#titol{
+	background-color: #3CCDBA; 
+}
+#portada {
+	max-width: 600px;
+	width: auto;
+}
+#llista {
+	display : flex; 
+}
+#llista li {
+	padding:  50px; 
+	width: 400px ;
+	margin: auto;
+	list-style : none; 
+	text-align:center;
+	font-size: 25px;
+}
+#llista img {
+	max-width: 200px;
+	height: auto; 
+	padding: 20px;
+}			
+#llista p {
+	font-size: : 30px; 
+	background-color : #000000 ;
+	color : #ffffff;
+	margin :  auto;
+	padding: 10px; 	        
+}			              
+.active { color: orange; background-color: orange }
+.nom {
+	font-size: 20px; 
+	position: relative;
+	top : -90px ;
+	color: white;
+} 
+
+
